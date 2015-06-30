@@ -1,0 +1,4 @@
+booknetworkproject.GUIFriend
+booknetworkproject.GUIFriend$3
+booknetworkproject.GUIFriend$2
+booknetworkproject.GUIFriend$1

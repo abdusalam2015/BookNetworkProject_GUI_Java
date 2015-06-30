@@ -1,0 +1,8 @@
+booknetworkproject.GUIProfile$1
+booknetworkproject.GUIProfile$2
+booknetworkproject.GUIProfile$3
+booknetworkproject.GUIProfile
+booknetworkproject.GUIProfile$4
+booknetworkproject.GUIProfile$5
+booknetworkproject.GUIProfile$6
+booknetworkproject.GUIProfile$7

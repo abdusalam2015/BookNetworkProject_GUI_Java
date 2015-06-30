@@ -1,0 +1,8 @@
+booknetworkproject.GUIAddBook$2
+booknetworkproject.GUIAddBook$1
+booknetworkproject.GUIAddBook$6
+booknetworkproject.GUIAddBook$5
+booknetworkproject.GUIAddBook$4
+booknetworkproject.GUIAddBook
+booknetworkproject.GUIAddBook$3
+booknetworkproject.GUIAddBook$7

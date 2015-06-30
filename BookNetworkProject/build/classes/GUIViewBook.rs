@@ -1,0 +1,5 @@
+booknetworkproject.GUIViewBook$3
+booknetworkproject.GUIViewBook$4
+booknetworkproject.GUIViewBook
+booknetworkproject.GUIViewBook$1
+booknetworkproject.GUIViewBook$2
